@@ -1,57 +1,37 @@
 {
-  "title": "blackspike astro landing page",
-  "description": "A free Astro landing theme made with Tailwind",
+  "title": "byfran",
+  "description": "Servicios de diseño web para empresas que buscan mejorar su presencia en línea.",
   "social_image": "/1200x630.jpg",
-  "base_url": "https://astro-theme.blackspike.com",
+  "base_url": "https://byfran.franciscolopezo.online",
   "demo": {
-    "title": "Need design?",
-    "content": "<strong>Get a guided tour through our services</strong>, and find out how you and your team can change the way you work, forever.",
-    "cta": "Book a call"
+    "title": "Mandanos un correo",
+    "content": "<strong>Consigue un asesoramiento</strong> para mejorar tu presencia en línea.",
+    "cta": "Contactanos"
   },
   "theme_color": "#18181b",
   "nav": [
     {
-      "title": "Services",
+      "title": "Servicios",
       "link": "/#services"
     },
     {
-      "title": "Case studies",
-      "link": "/#case-studies"
-    },
-    {
-      "title": "Pricing",
-      "link": "/#pricing"
-    },
-    {
-      "title": "FAQ",
+      "title": "Preguntas frecuentes",
       "link": "/#faq"
-    },
-    {
-      "title": "Newsletter",
-      "link": "/#newsletter"
     }
   ],
 
   "social_links": [
     {
       "title": "Twitter / X",
-      "link": "https://x.com/blackspikeltd/"
-    },
-    {
-      "title": "Mastodon",
-      "link": "https://mastodon.cloud/@blackspike"
+      "link": "https://x.com/byfrandev"
     },
     {
       "title": "GitHub",
-      "link": "https://github.com/blackspike/"
+      "link": "https://github.com/panchorq/"
     },
     {
       "title": "LinkedIn",
-      "link": "https://www.linkedin.com/company/blackspike"
-    },
-    {
-      "title": "Bluesky",
-      "link": "https://bsky.app/profile/blackspike.com/"
+      "link": "https://www.linkedin.com/company/franciscolopezortiz"
     }
   ]
 }

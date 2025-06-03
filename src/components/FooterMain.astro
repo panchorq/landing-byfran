@@ -25,7 +25,8 @@ const { settings } = Astro.props
         <h2 class="bs-h3">{ settings.demo.title  }</h2>
 
         <!-- CTA Button -->
-        <button type="button" class="min-w-32 bs-btn block bg-bs-surface-3" onclick="demo.showModal()">
+        <button type="button" class="min-w-32 bs-btn block bg-bs-surface-3"
+          onclick="window.location.href = 'mailto:fcomlopezortiz@gmail.com'">
           { settings.demo.cta }
         </button>
 
@@ -69,12 +70,6 @@ const { settings } = Astro.props
   <aside class="bs-container">
 
       <nav class="flex gap-4 justify-center pt-16 md:pt-24 text-xs">
-
-        <!-- Copyright/Date -->
-        <a href="https://blackspike.com/">by blackspike.com</a>
-
-        <!-- Credits -->
-        <a href="/credits">about / credits</a>
 
       </nav>
 

@@ -1,8 +1,8 @@
 [
   {
-    "title": "Powering Growth.<br>Simplifying Success.",
+    "title": "Acelerando el crecimiento",
     "sector": "Web design",
-    "content": "<strong>Our custom web design solution helped Biotechlet Ltd elevate its digital presence with a clean, modern interface and intuitive user experience. </strong> <br><br>The redesigned site streamlined user journeys, improved accessibility, and strengthened brand credibility.",
+    "content": "<strong>Nuestro plan personalizado de diseño web, </strong> <br><br>.",
     "case_study_link": "https://www.spike.news",
     "cta": "Visit spike.news",
     "image": "/content-images/spike.news.avif",
@@ -10,9 +10,9 @@
     "bg": "bg-gradient-to-r from-indigo-500 to-purple-600"
   },
   {
-    "title": "Accelerating Innovation.<br>Empowering Results.",
+    "title": "Empoderando resultados",
     "sector": "Development",
-    "content": "Our dynamic design and build simplified productivity, delivering automated solutions, seamless collaboration, and data-driven insights",
+    "content": "<strong>Nuestro dynamic design and build simplified productivity, delivering automated solutions, seamless collaboration, and data-driven insights</strong>",
     "case_study_link": "https://pixelate.pictures",
     "cta": "Visit pixelate.pictures",
     "image": "/content-images/pixelate.pictures.avif",
@@ -20,7 +20,7 @@
     "bg": "bg-gradient-to-r from-fuchsia-500 to-cyan-500"
   },
   {
-    "title": "Enhance productivity,<br>boost efficiency.",
+    "title": "Mejorando la productividad",
     "sector": "3D Design",
     "content": "Create, collaborate, and render — all in one streamlined workflow. Teams are connected and producing stunning visuals in minutes.",
     "case_study_link": "https://www.brighton.dog",

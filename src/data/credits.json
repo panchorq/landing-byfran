@@ -1,6 +1,6 @@
 {
   "title": "Credits",
-  "content": "This is a little theme made with <a href='https://astro.build/'>Astro</a> and <a href='https://tailwindcss.com/'>Tailwind</a> by <a href='https://www.blackspike.com'>blackspike design</a>. <a href='https://github.com/blackspike/blackspike-astro-landing-page'>View the code on GitHub</a>.",
+  "content": "This is a little theme made with <a href='https://astro.build/'>Astro</a> and <a href='https://tailwindcss.com/'>Tailwind</a> by <a href='https://www.franciscolopezo.online'>franciscolopezo.online</a>. <a href='https://github.com/panchorq/byfran'>View the code on GitHub</a>.",
   "list": [
     {
       "item": "Fake logos by <a href='https://uicontent.co/svg-dummy-logo/'>uicontent.co</a>"
@@ -18,7 +18,7 @@
       "item": "Inter font by <a href='https://rsms.me/inter/'>rsms.me</a>"
     },
     {
-      "item": "Theme and 3D images by <a href='https://www.blackspike.com'>blackspike ltd</a> are licensed under <a href='https://creativecommons.org/licenses/by/4.0/'>CC BY 4.0</a>"
+      "item": "Theme and 3D images by <a href='https://www.franciscolopezo.online'>franciscolopezo.online</a> are licensed under <a href='https://creativecommons.org/licenses/by/4.0/'>CC BY 4.0</a>"
 
     }
   ]

@@ -1,14 +1,14 @@
 {
-  "hero_title": "blackspike astro landing page",
-  "hero_content": "<p><strong>A free Astro landing theme made with Tailwind</strong> to help kick start your Astro website.</p><p>Uses modern CSS and HTML features for added zip, plus a slick swiper carousel. All in Astro JSX.</p>",
-  "services_title": "Our services",
-  "clients_title": "Trusted by some great companies",
-  "testimonials_title": "Clients ♥ us",
-  "case_studies_title": "Case studies",
-  "pricing_title": "We do design retainers",
-  "quote_content": "This <strong>design agency</strong> is a <strong>game changer</strong>. Its <strong>creative vision</strong>, <strong>user-focused approach</strong>, and <strong>seamless collaboration</strong> have <strong>transformed</strong> the way we <strong>build our brand</strong>. It’s <strong>not just an agency</strong> — it’s a <strong>powerful partner</strong> that <strong>delivers real results</strong>.",
-  "quote_cite": "Sean Higgins",
-  "quote_role": "CTO, Interia",
+  "hero_title": "byfran",
+  "hero_content": "<p><strong>Servicios de diseño web</strong> para empresas que buscan mejorar su presencia en línea.</p><p>Usamos las últimas tecnologías para crear interfaces modernas y atractivas.</p>",
+  "services_title": "Nuestros servicios",
+  "clients_title": "Trabajamos con empresas como",
+  "testimonials_title": "Clientes que nos apoyan",
+  "case_studies_title": "Casos de estudio",
+  "pricing_title": "Retainer de diseño",
+  "quote_content": "<strong>byfran</strong> es una agencia de diseño web que ofrece servicios de diseño web para empresas que buscan mejorar su presencia en línea. Usamos las últimas tecnologías para crear interfaces modernas y atractivas.",
+  "quote_cite": "Francisco López Ortiz",
+  "quote_role": "CEO, byfran",
   "quote_image": "/content-images/quote-man.avif",
-  "faq_title": "Frequently Asked Questions"
+  "faq_title": "Preguntas frecuentes"
 }
