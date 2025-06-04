@@ -1,0 +1,6 @@
+services:
+  - type: static
+    name: astro-landing
+    env: static
+    buildCommand: npm install && npm run build
+    staticPublishPath: dist
